@@ -12,6 +12,8 @@
 //     resolve DNS records as well as using various types of DNS records.
 //
 //     DnsQuery -q <QueryName> [-t QueryType] [-o QueryOptions] [-s server]
+//     The QueryName is the Hostname of the system for which the DnsQuery
+//     command is run.
 //
 
 #include <windows.h>
